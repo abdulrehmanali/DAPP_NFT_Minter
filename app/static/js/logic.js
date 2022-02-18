@@ -1,7 +1,7 @@
 Moralis.initialize("DSRDw9IOALcDp5phlYinUx2ntnYS3LYuChnmL7df"); // Application id from moralis.io
 Moralis.serverURL = "https://71w7vutonhvt.usemoralis.com:2053/server"; //Server url from moralis.io
 
-const nft_contract_address = "0xfa2b943b33b4ec4d60a065053e303354f38208a0" //NFT Minting Contract Use This One "Batteries Included", code of this contract is in the github repository under contract_base for your reference.
+const nft_contract_address = "0xF4903Ed8Ec204c412EF7765B883db12E5649Ea0F" //NFT Minting Contract Use This One "Batteries Included", code of this contract is in the github repository under contract_base for your reference.
 
 const web3 = new Web3(window.ethereum);
 
